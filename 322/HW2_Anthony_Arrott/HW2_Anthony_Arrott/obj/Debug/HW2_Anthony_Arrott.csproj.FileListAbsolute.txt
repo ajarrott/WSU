@@ -1,0 +1,9 @@
+C:\Users\anthony\Desktop\GitHub Uploads\322\HW2_Anthony_Arrott\HW2_Anthony_Arrott\bin\Debug\HW2_Anthony_Arrott.exe.config
+C:\Users\anthony\Desktop\GitHub Uploads\322\HW2_Anthony_Arrott\HW2_Anthony_Arrott\bin\Debug\HW2_Anthony_Arrott.exe
+C:\Users\anthony\Desktop\GitHub Uploads\322\HW2_Anthony_Arrott\HW2_Anthony_Arrott\bin\Debug\HW2_Anthony_Arrott.pdb
+C:\Users\anthony\Desktop\GitHub Uploads\322\HW2_Anthony_Arrott\HW2_Anthony_Arrott\obj\Debug\HW2_Anthony_Arrott.csprojResolveAssemblyReference.cache
+C:\Users\anthony\Desktop\GitHub Uploads\322\HW2_Anthony_Arrott\HW2_Anthony_Arrott\obj\Debug\HW2_Anthony_Arrott.Form1.resources
+C:\Users\anthony\Desktop\GitHub Uploads\322\HW2_Anthony_Arrott\HW2_Anthony_Arrott\obj\Debug\HW2_Anthony_Arrott.Properties.Resources.resources
+C:\Users\anthony\Desktop\GitHub Uploads\322\HW2_Anthony_Arrott\HW2_Anthony_Arrott\obj\Debug\HW2_Anthony_Arrott.csproj.GenerateResource.Cache
+C:\Users\anthony\Desktop\GitHub Uploads\322\HW2_Anthony_Arrott\HW2_Anthony_Arrott\obj\Debug\HW2_Anthony_Arrott.exe
+C:\Users\anthony\Desktop\GitHub Uploads\322\HW2_Anthony_Arrott\HW2_Anthony_Arrott\obj\Debug\HW2_Anthony_Arrott.pdb
