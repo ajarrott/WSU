@@ -1,0 +1,6 @@
+/x 5 def
+/f { /x 100 def x } def
+/g { /y 100 stack def x } def
+/h { /x 200 def /z { x f g } def } def
+h
+z
