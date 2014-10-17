@@ -1,0 +1,6 @@
+C:\Users\anthony\Documents\Visual Studio 2013\Projects\Anthony_Arrott_10853267_HW6\Anthony_Arrott_10853267_HW6\bin\Debug\Anthony_Arrott_10853267_HW6.exe.config
+C:\Users\anthony\Documents\Visual Studio 2013\Projects\Anthony_Arrott_10853267_HW6\Anthony_Arrott_10853267_HW6\bin\Debug\Anthony_Arrott_10853267_HW6.exe
+C:\Users\anthony\Documents\Visual Studio 2013\Projects\Anthony_Arrott_10853267_HW6\Anthony_Arrott_10853267_HW6\bin\Debug\Anthony_Arrott_10853267_HW6.pdb
+C:\Users\anthony\Documents\Visual Studio 2013\Projects\Anthony_Arrott_10853267_HW6\Anthony_Arrott_10853267_HW6\obj\Debug\Anthony_Arrott_10853267_HW6.csprojResolveAssemblyReference.cache
+C:\Users\anthony\Documents\Visual Studio 2013\Projects\Anthony_Arrott_10853267_HW6\Anthony_Arrott_10853267_HW6\obj\Debug\Anthony_Arrott_10853267_HW6.exe
+C:\Users\anthony\Documents\Visual Studio 2013\Projects\Anthony_Arrott_10853267_HW6\Anthony_Arrott_10853267_HW6\obj\Debug\Anthony_Arrott_10853267_HW6.pdb
